@@ -13,8 +13,6 @@ Ben **ASP.NET Core, C#, React ve Razor Pages** konusunda güçlü bir temele sah
 ## 📌 Öne Çıkan Projelerim
 - **Onion Architecture ile E-Ticaret API** 🛒
   - ASP.NET Core 8, CQRS, MediatR, JWT Kimlik Doğrulama
-- **Next.js ile Haber Uygulaması** 📰
-  - API entegrasyonu, dinamik yönlendirme, performans optimizasyonu
 - **Freelance Projeler** 💼
   - Kurumsal web siteleri, içerik yönetim sistemleri, satış yönetim araçları
 
