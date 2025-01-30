@@ -1,4 +1,4 @@
-# Merhaba! 👋 Ben [Adın]
+# Merhaba! 👋 
 
 ### 💻 Yazılım Geliştirici | Backend & Frontend Meraklısı
 
