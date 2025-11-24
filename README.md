@@ -15,6 +15,12 @@ Ben **ASP.NET Core, C#, React ve Razor Pages** konusunda güçlü bir temele sah
   - ASP.NET Core 8, CQRS, MediatR, JWT Kimlik Doğrulama
 - **Freelance Projeler** 💼
   - Kurumsal web siteleri, içerik yönetim sistemleri, satış yönetim araçları
+  - www.mygoldenfood.com
+  - www.yonelotoyedekparca.com
+  - www.izmirmakinakalip.com
+  - www.polatmermer.com
+  - www.anatoliaroot.com
+  
 
 ## 🚀 Şu An Üzerinde Çalıştığım Konular
 - **Bulut Bilişim & Mikroservisler** alanında yetkinlik kazanmak
